@@ -11,3 +11,4 @@ Requires:
 * PIC18F87J11 Plugin module (PIM)
 * USB cable
 * PuttY software on the PC
+* C Programming Language
