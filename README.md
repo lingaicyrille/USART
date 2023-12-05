@@ -1,4 +1,4 @@
-# Lab1-USART  
+# USART  
 Asynchronous serial interface to the PC  
 
 Requires:  
